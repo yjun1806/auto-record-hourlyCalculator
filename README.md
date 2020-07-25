@@ -1,7 +1,13 @@
 # 자동 출퇴근 기록 시급 계산기
 
-GPS를 이용해 등록된 근무지에 도착했을때 자동으로 설정된 값으로 근무기록이 추가되는 애플리케이션 입니다.
+아르바이트시 시급 계산을 돕기 위한 어플리케이션 입니다. GPS를 이용해 등록된 근무지에 도착했을 때 자동으로 설정된 값으로 근무기록이 추가됩니다.
 
+
+## 영상
+
+<iframe width="2308" height="1115" src="https://www.youtube.com/embed/cq-A2RJC7fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+ 
 ## 주요기능
 
 1. 구글맵 API를 이용해서 현재 사용자의 위치정보 또는 지도상의 검색을 통해 근무지 위치를 저장할 수 있습니다.
@@ -15,15 +21,45 @@ GPS를 이용해 등록된 근무지에 도착했을때 자동으로 설정된 �
 9. 위젯 기능
 
 
-## 상세설명
+## 상세 설명
 
 ### 메인화면
-<img src="/img/001.png"  width="" height="600">
+<img src="/img/001.png" height="500">
 
 메인화면 입니다. 근무지 추가 혹은 앱 설정이 가능합니다.
 
 ### 근무지 추가
 
-<img src="/img/002.png"  width="" height="600">
+<img src="/img/002.png" height="500">
 
-근무지
+< 근무지 추가 화면 >
+
+구글맵 API를 이용해서 현재 사용자의 위치정보 또는 지도상의 검색을 통해 근무지 위치를 저장할 수 있습니다.
+근무 장소와 근무 요일, 시급, 하루 근무 시간, 근무 시작 몇분 전에 알림을 줄것인지를 설정한 후 추가할 수 있습니다. 
+근무시작 30분전부터 사용자의 위치정보를 탐색해 근무지에 도착하면 설정된 값으로 자동으로 기록추가를 해줍니다.
+
+
+### 근무 알림 기능
+
+<img src="/img/003.png" height="500">
+
+< 근무 알림 화면 >
+
+근무 시작시간 5분, 15분, 30분 전에 '근무 몇분전입니다.'라는 알림을 띄워줍니다.
+
+
+### 근무 다이어리
+
+<img src="/img/004.png" height="500">
+
+### 캘린더
+
+<img src="/img/005.png" height="500">
+
+### 통계
+
+<img src="/img/006.png" height="500">
+
+### 위젯
+
+<img src="/img/007.png" height="500">
