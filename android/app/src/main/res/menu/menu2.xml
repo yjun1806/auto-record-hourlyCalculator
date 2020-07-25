@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_add"
+        android:icon="@drawable/addw"
+        android:title="plus"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/place_modi_button2"
+        android:title="근무지 수정" />
+    <item
+        android:id="@+id/place_delete_button2"
+        android:title="근무지 삭제" />
+
+</menu>

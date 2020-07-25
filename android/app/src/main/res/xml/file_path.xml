@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <external-path name="Test" path="Android/data/com.test.myapplication/files/Pictures"/>
+    <!--<external-path name="Test" path="Test/Pictures/"/>-->
+    <!--<external-path name="TestFolder" path="pathvalue"/>-->
+
+</paths>

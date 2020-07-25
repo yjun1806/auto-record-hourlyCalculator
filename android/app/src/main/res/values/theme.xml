@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppThemeSharedNoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:windowSharedElementEnterTransition">@transition/change_bounds</item>
+        <item name="android:windowSharedElementExitTransition">@transition/change_bounds</item>
+
+    </style>
+
+</resources>
