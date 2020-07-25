@@ -5,8 +5,7 @@
 
 ## 영상
 
-<iframe width="2308" height="1115" src="https://www.youtube.com/embed/cq-A2RJC7fg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+ {% include include/youtube.html id="cq-A2RJC7fg" %}  
  
 ## 주요기능
 
@@ -24,13 +23,13 @@
 ## 상세 설명
 
 ### 메인화면
-<img src="/img/001.png" height="500">
+<img src="/include/img/001.png" height="500">
 
 메인화면 입니다. 근무지 추가 혹은 앱 설정이 가능합니다.
 
 ### 근무지 추가
 
-<img src="/img/002.png" height="500">
+<img src="/include/img/002.png" height="500">
 
 < 근무지 추가 화면 >
 
@@ -41,7 +40,7 @@
 
 ### 근무 알림 기능
 
-<img src="/img/003.png" height="500">
+<img src="/include/img/003.png" height="500">
 
 < 근무 알림 화면 >
 
@@ -50,16 +49,16 @@
 
 ### 근무 다이어리
 
-<img src="/img/004.png" height="500">
+<img src="/include/img/004.png" height="500">
 
 ### 캘린더
 
-<img src="/img/005.png" height="500">
+<img src="/include/img/005.png" height="500">
 
 ### 통계
 
-<img src="/img/006.png" height="500">
+<img src="/include/img/006.png" height="500">
 
 ### 위젯
 
-<img src="/img/007.png" height="500">
+<img src="/include/img/007.png" height="500">
