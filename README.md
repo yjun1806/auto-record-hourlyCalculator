@@ -27,9 +27,9 @@ GPS를 이용해 등록된 근무지에 도착했을 때 자동으로 설정된 
 
 ## 영상
 
-[![테스트](http://img.youtube.com/vi/cq-A2RJC7fg/0.jpg)](http://www.youtube.com/watch?v=cq-A2RJC7fg "테스트")
+[![영상](http://img.youtube.com/vi/zK0zx2XncW0/0.jpg)](https://youtu.be/zK0zx2XncW0 "영상")
 
-[ 대체할 예정 ]
+위의 이미지를 클릭하시면 영상을 보실 수 있습니다.
 
 ## 스크린샷 및 상세 설명
 
